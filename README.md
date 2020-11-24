@@ -1,2 +1,7 @@
-# Hackathon-Covid
-Group Git Repository for 24/11/2020 Hackathon
+Hackathon-Covid
+
+Links to the competition:
+
+https://github.com/leaf-ai/covid-xprize
+
+https://xprize.org/challenge/pandemicresponse
